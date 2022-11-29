@@ -50,3 +50,23 @@ else:
        factorial = factorial*i
    print("The factorial of",num,"is",factorial)
 '''
+
+
+
+
+'''import math
+math.sqrt(4)
+
+
+
+import math
+
+x = 5
+y = 15
+z = 8
+
+
+print ("The factorial of 5 is : ", math.factorial(x))
+print ("The factorial of 15 is : ", math.factorial(y))
+print ("The factorial of 8 is : ", math.factorial(z))
+'''
